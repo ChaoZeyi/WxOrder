@@ -1,0 +1,18 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/cherry?characterEncoding=utf8
+    username: cherry
+    password: cherry
+    type: com.alibaba.druid.pool.DruidDataSource
+
+
+# 一定得加classpath:，不然会无法识别
+logging:
+  config: classpath:spring-logback.xml
+mybatis:
+  config-location: classpath:mybatis-config.xml
+  mapper-locations: classpath:mapper/*.xml
+server:
+  servlet:
+    context-path: /sell

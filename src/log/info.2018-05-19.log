@@ -1,0 +1,211 @@
+Starting ProductCategoryDaoTest on M54JLKXEX8FDNMB with PID 3608 (started by Administrator in G:\myIdeaWorkspace\WxOrder)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.web.context.support.GenericWebApplicationContext@7905a0b8: startup date [Sat May 19 20:14:02 CST 2018]; root of context hierarchy
+No MyBatis mapper was found in '[com.whu.cherry]' package. Please check your configuration.
+Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@7905a0b8: startup date [Sat May 19 20:14:02 CST 2018]; root of context hierarchy
+Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Started ProductCategoryDaoTest in 3.112 seconds (JVM running for 4.439)
+Closing org.springframework.web.context.support.GenericWebApplicationContext@7905a0b8: startup date [Sat May 19 20:14:02 CST 2018]; root of context hierarchy
+Starting ProductCategoryDaoTest on M54JLKXEX8FDNMB with PID 5644 (started by Administrator in G:\myIdeaWorkspace\WxOrder)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.web.context.support.GenericWebApplicationContext@6ca18a14: startup date [Sat May 19 20:19:09 CST 2018]; root of context hierarchy
+No MyBatis mapper was found in '[com.whu.cherry]' package. Please check your configuration.
+Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@6ca18a14: startup date [Sat May 19 20:19:09 CST 2018]; root of context hierarchy
+Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Started ProductCategoryDaoTest in 2.699 seconds (JVM running for 3.441)
+Closing org.springframework.web.context.support.GenericWebApplicationContext@6ca18a14: startup date [Sat May 19 20:19:09 CST 2018]; root of context hierarchy
+Starting ProductCategoryDaoTest on M54JLKXEX8FDNMB with PID 7672 (started by Administrator in G:\myIdeaWorkspace\WxOrder)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 20:28:02 CST 2018]; root of context hierarchy
+Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 20:28:02 CST 2018]; root of context hierarchy
+Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Started ProductCategoryDaoTest in 2.574 seconds (JVM running for 3.341)
+{dataSource-1} inited
+Closing org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 20:28:02 CST 2018]; root of context hierarchy
+{dataSource-1} closed
+Starting ProductCategoryDaoTest on M54JLKXEX8FDNMB with PID 6972 (started by Administrator in G:\myIdeaWorkspace\WxOrder)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 20:29:20 CST 2018]; root of context hierarchy
+Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 20:29:20 CST 2018]; root of context hierarchy
+Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Started ProductCategoryDaoTest in 2.512 seconds (JVM running for 3.218)
+{dataSource-1} inited
+Closing org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 20:29:20 CST 2018]; root of context hierarchy
+{dataSource-1} closed
+Starting ProductCategoryDaoTest on M54JLKXEX8FDNMB with PID 7160 (started by Administrator in G:\myIdeaWorkspace\WxOrder)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.web.context.support.GenericWebApplicationContext@19976a65: startup date [Sat May 19 20:32:16 CST 2018]; root of context hierarchy
+Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@19976a65: startup date [Sat May 19 20:32:16 CST 2018]; root of context hierarchy
+Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Started ProductCategoryDaoTest in 2.731 seconds (JVM running for 3.472)
+{dataSource-1} inited
+Closing org.springframework.web.context.support.GenericWebApplicationContext@19976a65: startup date [Sat May 19 20:32:16 CST 2018]; root of context hierarchy
+{dataSource-1} closed
+Starting ProductCategoryDaoTest on M54JLKXEX8FDNMB with PID 4496 (started by Administrator in G:\myIdeaWorkspace\WxOrder)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 20:44:32 CST 2018]; root of context hierarchy
+Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 20:44:32 CST 2018]; root of context hierarchy
+Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Started ProductCategoryDaoTest in 2.714 seconds (JVM running for 3.435)
+{dataSource-1} inited
+Closing org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 20:44:32 CST 2018]; root of context hierarchy
+{dataSource-1} closed
+Starting ProductCategoryDaoTest on M54JLKXEX8FDNMB with PID 7188 (started by Administrator in G:\myIdeaWorkspace\WxOrder)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.web.context.support.GenericWebApplicationContext@19976a65: startup date [Sat May 19 21:19:21 CST 2018]; root of context hierarchy
+Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@19976a65: startup date [Sat May 19 21:19:21 CST 2018]; root of context hierarchy
+Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Started ProductCategoryDaoTest in 2.616 seconds (JVM running for 3.364)
+{dataSource-1} inited
+Closing org.springframework.web.context.support.GenericWebApplicationContext@19976a65: startup date [Sat May 19 21:19:21 CST 2018]; root of context hierarchy
+{dataSource-1} closed
+Starting ProductCategoryDaoTest on M54JLKXEX8FDNMB with PID 7768 (started by Administrator in G:\myIdeaWorkspace\WxOrder)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.web.context.support.GenericWebApplicationContext@75c56eb9: startup date [Sat May 19 21:19:41 CST 2018]; root of context hierarchy
+Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@75c56eb9: startup date [Sat May 19 21:19:41 CST 2018]; root of context hierarchy
+Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Started ProductCategoryDaoTest in 2.617 seconds (JVM running for 3.317)
+Closing org.springframework.web.context.support.GenericWebApplicationContext@75c56eb9: startup date [Sat May 19 21:19:41 CST 2018]; root of context hierarchy
+Starting ProductCategoryDaoTest on M54JLKXEX8FDNMB with PID 6092 (started by Administrator in G:\myIdeaWorkspace\WxOrder)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 21:22:12 CST 2018]; root of context hierarchy
+Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 21:22:12 CST 2018]; root of context hierarchy
+Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Started ProductCategoryDaoTest in 2.756 seconds (JVM running for 3.482)
+Closing org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 21:22:12 CST 2018]; root of context hierarchy
+Starting ProductCategoryDaoTest on M54JLKXEX8FDNMB with PID 408 (started by Administrator in G:\myIdeaWorkspace\WxOrder)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 21:25:12 CST 2018]; root of context hierarchy
+Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 21:25:12 CST 2018]; root of context hierarchy
+Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Started ProductCategoryDaoTest in 2.622 seconds (JVM running for 3.404)
+Closing org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 21:25:12 CST 2018]; root of context hierarchy
+Starting ProductCategoryDaoTest on M54JLKXEX8FDNMB with PID 1588 (started by Administrator in G:\myIdeaWorkspace\WxOrder)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 21:27:09 CST 2018]; root of context hierarchy
+Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 21:27:09 CST 2018]; root of context hierarchy
+Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Started ProductCategoryDaoTest in 2.707 seconds (JVM running for 3.478)
+{dataSource-1} inited
+Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+SQLErrorCodes loaded: [DB2, Derby, H2, HDB, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase]
+Closing org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 21:27:09 CST 2018]; root of context hierarchy
+{dataSource-1} closed
+Starting ProductCategoryDaoTest on M54JLKXEX8FDNMB with PID 7172 (started by Administrator in G:\myIdeaWorkspace\WxOrder)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 21:28:41 CST 2018]; root of context hierarchy
+Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 21:28:41 CST 2018]; root of context hierarchy
+Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Started ProductCategoryDaoTest in 2.562 seconds (JVM running for 3.269)
+{dataSource-1} inited
+Closing org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 21:28:41 CST 2018]; root of context hierarchy
+{dataSource-1} closed
+Starting ProductCategoryDaoTest on M54JLKXEX8FDNMB with PID 6012 (started by Administrator in G:\myIdeaWorkspace\WxOrder)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.web.context.support.GenericWebApplicationContext@57a3e26a: startup date [Sat May 19 21:29:25 CST 2018]; root of context hierarchy
+Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@57a3e26a: startup date [Sat May 19 21:29:25 CST 2018]; root of context hierarchy
+Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Started ProductCategoryDaoTest in 2.839 seconds (JVM running for 3.559)
+{dataSource-1} inited
+Closing org.springframework.web.context.support.GenericWebApplicationContext@57a3e26a: startup date [Sat May 19 21:29:25 CST 2018]; root of context hierarchy
+{dataSource-1} closed
+Starting ProductCategoryDaoTest on M54JLKXEX8FDNMB with PID 6100 (started by Administrator in G:\myIdeaWorkspace\WxOrder)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 21:32:11 CST 2018]; root of context hierarchy
+Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 21:32:11 CST 2018]; root of context hierarchy
+Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Started ProductCategoryDaoTest in 2.702 seconds (JVM running for 3.449)
+Closing org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 21:32:11 CST 2018]; root of context hierarchy
+Starting ProductCategoryDaoTest on M54JLKXEX8FDNMB with PID 6172 (started by Administrator in G:\myIdeaWorkspace\WxOrder)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 21:33:09 CST 2018]; root of context hierarchy
+Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 21:33:09 CST 2018]; root of context hierarchy
+Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Started ProductCategoryDaoTest in 2.701 seconds (JVM running for 3.456)
+Closing org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 21:33:09 CST 2018]; root of context hierarchy
+Starting ProductCategoryDaoTest on M54JLKXEX8FDNMB with PID 2340 (started by Administrator in G:\myIdeaWorkspace\WxOrder)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 21:33:25 CST 2018]; root of context hierarchy
+Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 21:33:25 CST 2018]; root of context hierarchy
+Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Started ProductCategoryDaoTest in 2.58 seconds (JVM running for 3.334)
+{dataSource-1} inited
+Closing org.springframework.web.context.support.GenericWebApplicationContext@a1f72f5: startup date [Sat May 19 21:33:25 CST 2018]; root of context hierarchy
+{dataSource-1} closed
+Starting ProductCategoryDaoTest on M54JLKXEX8FDNMB with PID 7420 (started by Administrator in G:\myIdeaWorkspace\WxOrder)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.web.context.support.GenericWebApplicationContext@4b2c5e02: startup date [Sat May 19 21:41:17 CST 2018]; root of context hierarchy
+Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@4b2c5e02: startup date [Sat May 19 21:41:17 CST 2018]; root of context hierarchy
+Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Started ProductCategoryDaoTest in 2.769 seconds (JVM running for 3.494)
+{dataSource-1} inited
+Closing org.springframework.web.context.support.GenericWebApplicationContext@4b2c5e02: startup date [Sat May 19 21:41:17 CST 2018]; root of context hierarchy
+{dataSource-1} closed

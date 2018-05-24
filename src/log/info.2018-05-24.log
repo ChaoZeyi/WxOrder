@@ -1,0 +1,97 @@
+Starting CherryApplication on M54JLKXEX8FDNMB with PID 9832 (G:\myIdeaWorkspace\WxOrder\target\classes started by Administrator in G:\myIdeaWorkspace\WxOrder)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@4466af20: startup date [Thu May 24 16:04:49 CST 2018]; root of context hierarchy
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet Engine: Apache Tomcat/8.5.31
+The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\Java\JDK1.8\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Java\JDK1.8\bin;D:\Java\JDK1.8\jre\bin;G:\ruanjian\tomcat\apache-tomcat-8.5.24\bin;G:\ruanjian\tomcat\apache-tomcat-8.5.24\lib;G:\Git\Git\cmd;G:\ruanjian\python3.5;G:\ruanjian\python3.5\Scripts;G:\ruanjian\python2.7\Scripts;G:\ruanjian\python2.7\;C:\Program Files\mingw-w64\x86_64-6.3.0-posix-seh-rt_v5-rev1\mingw64\bin;C:\Program Files (x86)\NetCDF4Excel;G:\matlab2014\runtime\win64;G:\matlab2014\bin;G:\matlab2014\polyspace\bin;D:\Maven\apache-maven-3.5.2\bin;D:\hadoop\hadoop-2.7.4\bin;G:\ruanjian\nodejs\;G:\latex\CTEX\UserData\miktex\bin;G:\latex\CTEX\MiKTeX\miktex\bin;G:\latex\CTEX\CTeX\ctex\bin;G:\latex\CTEX\CTeX\cct\bin;G:\latex\CTEX\CTeX\ty\bin;G:\latex\CTEX\Ghostscript\gs9.05\bin;G:\latex\CTEX\GSview\gsview;G:\latex\CTEX\WinEdt;G:\ruanjian\mysql\bin;G:\ruanjian\python3.5\Scripts\;G:\ruanjian\python3.5\;G:\ruanjian\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Roaming\npm;.]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1734 ms
+Servlet dispatcherServlet mapped to [/]
+Mapping filter: 'characterEncodingFilter' to: [/*]
+Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+Mapping filter: 'httpPutFormContentFilter' to: [/*]
+Mapping filter: 'requestContextFilter' to: [/*]
+Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@4466af20: startup date [Thu May 24 16:04:49 CST 2018]; root of context hierarchy
+Mapped "{[/buyer/product/list],methods=[GET]}" onto public com.whu.cherry.vo.ResultVo com.whu.cherry.controller.BuyerProductController.list()
+Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Registering beans for JMX exposure on startup
+Bean with name 'dataSource' has been autodetected for JMX exposure
+Located MBean 'dataSource': registering with JMX server as MBean [com.alibaba.druid.pool:name=dataSource,type=DruidDataSource]
+Starting ProtocolHandler ["http-nio-8080"]
+Using a shared selector for servlet write/read
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started CherryApplication in 4.153 seconds (JVM running for 5.255)
+Initializing Spring FrameworkServlet 'dispatcherServlet'
+FrameworkServlet 'dispatcherServlet': initialization started
+FrameworkServlet 'dispatcherServlet': initialization completed in 10 ms
+Starting CherryApplication on M54JLKXEX8FDNMB with PID 7476 (G:\myIdeaWorkspace\WxOrder\target\classes started by Administrator in G:\myIdeaWorkspace\WxOrder)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@4466af20: startup date [Thu May 24 16:25:59 CST 2018]; root of context hierarchy
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet Engine: Apache Tomcat/8.5.31
+The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\Java\JDK1.8\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Java\JDK1.8\bin;D:\Java\JDK1.8\jre\bin;G:\ruanjian\tomcat\apache-tomcat-8.5.24\bin;G:\ruanjian\tomcat\apache-tomcat-8.5.24\lib;G:\Git\Git\cmd;G:\ruanjian\python3.5;G:\ruanjian\python3.5\Scripts;G:\ruanjian\python2.7\Scripts;G:\ruanjian\python2.7\;C:\Program Files\mingw-w64\x86_64-6.3.0-posix-seh-rt_v5-rev1\mingw64\bin;C:\Program Files (x86)\NetCDF4Excel;G:\matlab2014\runtime\win64;G:\matlab2014\bin;G:\matlab2014\polyspace\bin;D:\Maven\apache-maven-3.5.2\bin;D:\hadoop\hadoop-2.7.4\bin;G:\ruanjian\nodejs\;G:\latex\CTEX\UserData\miktex\bin;G:\latex\CTEX\MiKTeX\miktex\bin;G:\latex\CTEX\CTeX\ctex\bin;G:\latex\CTEX\CTeX\cct\bin;G:\latex\CTEX\CTeX\ty\bin;G:\latex\CTEX\Ghostscript\gs9.05\bin;G:\latex\CTEX\GSview\gsview;G:\latex\CTEX\WinEdt;G:\ruanjian\mysql\bin;G:\ruanjian\python3.5\Scripts\;G:\ruanjian\python3.5\;G:\ruanjian\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Roaming\npm;.]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1052 ms
+Servlet dispatcherServlet mapped to [/]
+Mapping filter: 'characterEncodingFilter' to: [/*]
+Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+Mapping filter: 'httpPutFormContentFilter' to: [/*]
+Mapping filter: 'requestContextFilter' to: [/*]
+Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@4466af20: startup date [Thu May 24 16:25:59 CST 2018]; root of context hierarchy
+Mapped "{[/buyer/product/list],methods=[GET]}" onto public com.whu.cherry.vo.ResultVo com.whu.cherry.controller.BuyerProductController.list()
+Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Registering beans for JMX exposure on startup
+Bean with name 'dataSource' has been autodetected for JMX exposure
+Located MBean 'dataSource': registering with JMX server as MBean [com.alibaba.druid.pool:name=dataSource,type=DruidDataSource]
+Starting ProtocolHandler ["http-nio-8080"]
+Using a shared selector for servlet write/read
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started CherryApplication in 2.144 seconds (JVM running for 2.478)
+Initializing Spring FrameworkServlet 'dispatcherServlet'
+FrameworkServlet 'dispatcherServlet': initialization started
+FrameworkServlet 'dispatcherServlet': initialization completed in 10 ms
+Starting CherryApplication on M54JLKXEX8FDNMB with PID 9588 (G:\myIdeaWorkspace\WxOrder\target\classes started by Administrator in G:\myIdeaWorkspace\WxOrder)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@4466af20: startup date [Thu May 24 20:04:20 CST 2018]; root of context hierarchy
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet Engine: Apache Tomcat/8.5.31
+The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\Java\JDK1.8\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Java\JDK1.8\bin;D:\Java\JDK1.8\jre\bin;G:\ruanjian\tomcat\apache-tomcat-8.5.24\bin;G:\ruanjian\tomcat\apache-tomcat-8.5.24\lib;G:\Git\Git\cmd;G:\ruanjian\python3.5;G:\ruanjian\python3.5\Scripts;G:\ruanjian\python2.7\Scripts;G:\ruanjian\python2.7\;C:\Program Files\mingw-w64\x86_64-6.3.0-posix-seh-rt_v5-rev1\mingw64\bin;C:\Program Files (x86)\NetCDF4Excel;G:\matlab2014\runtime\win64;G:\matlab2014\bin;G:\matlab2014\polyspace\bin;D:\Maven\apache-maven-3.5.2\bin;D:\hadoop\hadoop-2.7.4\bin;G:\ruanjian\nodejs\;G:\latex\CTEX\UserData\miktex\bin;G:\latex\CTEX\MiKTeX\miktex\bin;G:\latex\CTEX\CTeX\ctex\bin;G:\latex\CTEX\CTeX\cct\bin;G:\latex\CTEX\CTeX\ty\bin;G:\latex\CTEX\Ghostscript\gs9.05\bin;G:\latex\CTEX\GSview\gsview;G:\latex\CTEX\WinEdt;G:\ruanjian\mysql\bin;G:\ruanjian\python3.5\Scripts\;G:\ruanjian\python3.5\;G:\ruanjian\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Roaming\npm;.]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1142 ms
+Servlet dispatcherServlet mapped to [/]
+Mapping filter: 'characterEncodingFilter' to: [/*]
+Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+Mapping filter: 'httpPutFormContentFilter' to: [/*]
+Mapping filter: 'requestContextFilter' to: [/*]
+Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@4466af20: startup date [Thu May 24 20:04:20 CST 2018]; root of context hierarchy
+Mapped "{[/buyer/product/list],methods=[GET]}" onto public com.whu.cherry.vo.ResultVo com.whu.cherry.controller.BuyerProductController.list()
+Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Registering beans for JMX exposure on startup
+Bean with name 'dataSource' has been autodetected for JMX exposure
+Located MBean 'dataSource': registering with JMX server as MBean [com.alibaba.druid.pool:name=dataSource,type=DruidDataSource]
+Starting ProtocolHandler ["http-nio-8080"]
+Using a shared selector for servlet write/read
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started CherryApplication in 2.223 seconds (JVM running for 2.514)
+Initializing Spring FrameworkServlet 'dispatcherServlet'
+FrameworkServlet 'dispatcherServlet': initialization started
+FrameworkServlet 'dispatcherServlet': initialization completed in 9 ms
+{dataSource-1} inited

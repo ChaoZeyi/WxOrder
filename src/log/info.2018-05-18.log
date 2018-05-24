@@ -1,0 +1,14 @@
+Starting test on M54JLKXEX8FDNMB with PID 5028 (started by Administrator in G:\myIdeaWorkspace\WxOrder)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1169afe1: startup date [Fri May 18 21:05:37 CST 2018]; root of context hierarchy
+No MyBatis mapper was found in '[com.whu.cherry]' package. Please check your configuration.
+Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@1169afe1: startup date [Fri May 18 21:05:37 CST 2018]; root of context hierarchy
+Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+Started test in 2.624 seconds (JVM running for 3.359)
+info...........
+warn..........
+Closing org.springframework.web.context.support.GenericWebApplicationContext@1169afe1: startup date [Fri May 18 21:05:37 CST 2018]; root of context hierarchy
